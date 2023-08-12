@@ -1,5 +1,5 @@
 # Reinforcement Learning algorithms
-Most common Reinforcement Learning algorithms from scratch:
+Implementation details for most common Reinforcement Learning algorithms from scratch:
 * Deep Q-Network (DQN)
 * Deep Deterministic Policy Gradient (DDPG)
 * Proximal Policy Optimization (PPO)
